@@ -328,7 +328,7 @@
                    </div>
                     <div class="nav-item" data-page="marketplace">
                         <i class="fas fa-shopping-cart"></i>
-                        <span>Shopping</span>
+                        <span>Shop</span>
                     </div>
                 </div>
             </nav>
